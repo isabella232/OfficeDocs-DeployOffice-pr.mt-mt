@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Jipprovdi lill-amministraturi ta’ Office b’ħarsa ġenerali lejn il-kontrolli tal-privatezza għal Office 365 ProPlus, inkluż dejta djanjostika u esperjenzi konnessi.
 hideEdit: true
-ms.openlocfilehash: a65fd2a6b7169c9098d233a926041d9cbc599886
-ms.sourcegitcommit: 3f5de6281b8e92c6c41a800f4374211188460320
+ms.openlocfilehash: a362a50b3d75e0792623745ef32fb93b4e458a41
+ms.sourcegitcommit: 0fd23324ba1364fa1f8dd1578adf25946adde90f
 ms.translationtype: HT
 ms.contentlocale: mt-MT
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34701126"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36238938"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Ħarsa ġenerali lejn il-kontrolli tal-privatezza għal Office 365 ProPlus
 
@@ -34,9 +34,11 @@ Bħala parti minn dawn il-bidliet, hemm elementi tal-interface (UI) u settings t
 
 > [!IMPORTANT]
 > - Dawn il-bidliet japplikaw għal Access, Excel, OneNote, Outlook, PowerPoint, Publisher u Word.
-> - Dawn il-bidliet japplikaw ukoll għall-verżjonijiet tad-desktop ta’ Project u Visio li jiġu b’xi pjanijiet ta’ abbonamenti, bħall-pjan ta’ Project Online Professional jew Visio Online Plan 2.
-> - Huwa mistenni li Version 1904 ikun disponibbli f’Semi-Annual Channel (Immirat) f’Settembru u f’Semi-Annual Channel f’Jannar 2020.
-> - Se nkunu qed nestendu dawn il-kontrolli tal-privatezza ġodda u mtejba għal klijenti addizzjonali ta’ Office, inklużi Teams, Office for Mac u l-applikazzjonijiet mobbli tagħna. Se nipprovdu aktar informazzjoni dwar dawn il-bidliet fix-xhur li ġejjin. Se nkomplu nisimgħu l-feedback b’attenzjoni u nagħmlu titjib fil-klijenti u s-servizzi kollha ta’ Office 365.
+> - Dawn il-bidliet japplikaw ukoll għal dan li ġej:
+>   - Verżjoni 16.28 jew aktar riċenti tal-applikazzjonijiet li ġejjin ta’ Office for Mac: Excel, Outlook, OneNote, PowerPoint u Word.
+>   - Verżjoni 1904 jew aktar riċenti tal-verżjonijiet ta’ Project u Visio li jiġu b’xi pjanijiet ta’ abbonamenti, bħall-pjan ta’ Project Online Professional jew Visio Online Plan 2.
+> - Il-kontrolli tal-privatezza li ħarġu fil-Verżjoni 1904 huma mistennija jkunu disponibbli f’Semi-Annual Channel (Immirat) f’Settembru 2019 u f’Semi-Annual Channel f’Jannar 2020.
+> - Se nkunu qed nestendu dawn il-kontrolli tal-privatezza ġodda u mtejba lil klijenti addizzjonali ta’ Office, inkluż Teams u l-applikazzjonijiet mobbli tagħna. Se nipprovdu aktar informazzjoni dwar dawn il-bidliet fix-xhur li ġejjin. Se nkomplu nisimgħu l-feedback b’attenzjoni u nagħmlu titjib fil-klijenti u s-servizzi kollha ta’ Office 365.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Dejta djanjostika mibgħuta minn Office 365 ProPlus lil Microsoft
 
@@ -63,12 +65,12 @@ L-utenti tiegħek mhux se jkunu jistgħu jbiddlu l-livell tad-dejta djanjostika 
 Din id-dejta djanjostika ma tinkludix l-ismijiet tal-utenti, l-indirizz elettroniċi tagħhom, jew il-kontenut tal-fajls ta’ Office tagħhom. Is-sistema tagħna toħloq ID unika li tassoċjaha mad-dejta dijanjostika tal-utent tiegħek. Meta nirċievu dejta dijanjostika li turi li waħda mill-applikazzjonijiet tagħna kkraxxjat 100 darba, din l-ID unika tippermettilna niddeterminaw jekk kienx hemm utent wieħed li kkraxxja 100 darba jew jekk kinux 100 utent differenti li kkraxxjaw darba. Aħna ma nużawx din l-ID unika biex nidentifikaw utent speċifiku.
 
 Biex tara x’dejta djanjostika qed tintbagħat lil Microsoft, tista’ tuża l-Viżwalizzatur tad-Dejta Djanjostika, li tista’ tniżżel u tinstalla b’xejn minn Microsoft Store.
-
-Għal aktar informazzjoni, ara dan li ġej:
+7 Għal aktar informazzjoni, ara dan li ġej:
 
 - [Dejta djanjostika meħtieġa għal Office](required-diagnostic-data.md)
 - [Dejta djanjostika fakultattiva għal Office](optional-diagnostic-data.md)
 - [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għal Office 365 ProPlus](manage-privacy-controls.md)
+- [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office for Mac](mac-privacy-preferences.md)
 - [L-użu tal-Viżwalizzatur tad-Dejta Djanjostika ma’ Office](https://support.office.com/article/cf761ce9-d805-4c60-a339-4e07f3182855)
 
 ## <a name="connected-experiences-for-office-365-proplus"></a>Esperjenzi konnessi għal Office 365 ProPlus
@@ -93,6 +95,7 @@ Għal aktar informazzjoni, ara dan li ġej:
 
 - [Esperjenzi konnessi f’Office](connected-experiences.md)
 - [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għal Office 365 ProPlus](manage-privacy-controls.md)
+- [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office for Mac](mac-privacy-preferences.md)
 
 ## <a name="optional-connected-experiences-for-office-365-proplus"></a>Esperjenzi konnessi fakultattivi għal Office 365 ProPlus
 
@@ -102,12 +105,13 @@ Dawn huma esperjenzi konnessi fakultattivi li mhumiex koperti mill-ftehim kummer
 
 Billi dawn l-esperjenzi konnessi huma regolati minn termini u kundizzjonijiet separati, inti timmaniġġjahom separatament mill-esperjenzi konnessi msemmija hawn fuq. Bħala amministratur għall-organizzazzjoni tiegħek, se tkun tista’ tuża setting tal-politika biex tagħżel jekk tagħmilx dawn l-esperjenzi konnessi fakultattivi disponibbli, bħala grupp, għall-utenti tiegħek. Jekk ma tikkonfigurax dan is-setting tal-politika, dawn l-esperjenzi konnessi fakultattivi jkunu disponibbli għall-utenti tiegħek.
 
-Anke jekk tagħżel li tagħmel dawn l-esperjenzi konnessi fakultattivi disponibbli għall-utenti tiegħek, l-utenti tiegħek ikollhom l-għażla li jitfu dawn l-esperjenzi konnessi fakultattivi bħala grupp billi jmorru fuq **Fajl** > **Kont** > **Privatezza tal-Kont** > **Immaniġġja s-Settings**. L-utenti tiegħek ikollhom din l-għażla biss jekk ikunu mdaħħla f’Office bil-kredenzjali tal-organizzazzjoni tagħhom (xi drabi imsejħa kont tax-xogħol jew tal-iskola), mhux jekk ikunu mdaħħla b’indirizz elettroniku personali.
+Anke jekk tagħżel li tagħmel dawn l-esperjenzi konnessi fakultattivi disponibbli għall-utenti tiegħek, l-utenti tiegħek se jkollhom l-għażla li jitfu dawn l-esperjenzi konnessi fakultattivi bħala grupp billi jmlorru fil-[kaxxa tad-djalogu tas-settings tal-privatezza](https://support.office.com/article/3e7bc183-bf52-4fd0-8e6b-78978f7f121b). L-utenti tiegħek ikollhom din l-għażla biss jekk ikunu mdaħħla f’Office bil-kredenzjali tal-organizzazzjoni tagħhom (xi drabi imsejħa kont tax-xogħol jew tal-iskola), mhux jekk ikunu mdaħħla b’indirizz elettroniku personali.
 
 Għal aktar informazzjoni, ara dan li ġej:
 
 - [Ħarsa ġenerali lejn l-esperjenzi konnessi fakultattivi f’Office](optional-connected-experiences.md)
 - [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għal Office 365 ProPlus](manage-privacy-controls.md)
+- [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office for Mac](mac-privacy-preferences.md)
 
 ## <a name="required-service-data-for-connected-experiences"></a>Dejta tas-servizz meħtieġa għal esperjenzi konnessi
 
