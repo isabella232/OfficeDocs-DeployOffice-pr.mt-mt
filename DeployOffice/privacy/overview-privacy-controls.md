@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Jipprovdi lill-amministraturi ta’ Office b’ħarsa ġenerali lejn il-kontrolli tal-privatezza għal Office 365 ProPlus, inkluż dejta djanjostika u esperjenzi konnessi.
 hideEdit: true
-ms.openlocfilehash: a362a50b3d75e0792623745ef32fb93b4e458a41
-ms.sourcegitcommit: 0fd23324ba1364fa1f8dd1578adf25946adde90f
+ms.openlocfilehash: ab024c4ce2eb4d81809880b607e084932658be3c
+ms.sourcegitcommit: 3f2319ff2f8fcde87ae5ffefa3b956a8239c4aed
 ms.translationtype: HT
 ms.contentlocale: mt-MT
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36238938"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36441608"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Ħarsa ġenerali lejn il-kontrolli tal-privatezza għal Office 365 ProPlus
 
@@ -65,7 +65,8 @@ L-utenti tiegħek mhux se jkunu jistgħu jbiddlu l-livell tad-dejta djanjostika 
 Din id-dejta djanjostika ma tinkludix l-ismijiet tal-utenti, l-indirizz elettroniċi tagħhom, jew il-kontenut tal-fajls ta’ Office tagħhom. Is-sistema tagħna toħloq ID unika li tassoċjaha mad-dejta dijanjostika tal-utent tiegħek. Meta nirċievu dejta dijanjostika li turi li waħda mill-applikazzjonijiet tagħna kkraxxjat 100 darba, din l-ID unika tippermettilna niddeterminaw jekk kienx hemm utent wieħed li kkraxxja 100 darba jew jekk kinux 100 utent differenti li kkraxxjaw darba. Aħna ma nużawx din l-ID unika biex nidentifikaw utent speċifiku.
 
 Biex tara x’dejta djanjostika qed tintbagħat lil Microsoft, tista’ tuża l-Viżwalizzatur tad-Dejta Djanjostika, li tista’ tniżżel u tinstalla b’xejn minn Microsoft Store.
-7 Għal aktar informazzjoni, ara dan li ġej:
+
+Għal aktar informazzjoni, ara dan li ġej:
 
 - [Dejta djanjostika meħtieġa għal Office](required-diagnostic-data.md)
 - [Dejta djanjostika fakultattiva għal Office](optional-diagnostic-data.md)
