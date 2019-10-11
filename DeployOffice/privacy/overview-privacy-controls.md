@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Jipprovdi lill-amministraturi ta’ Office b’ħarsa ġenerali lejn il-kontrolli tal-privatezza għal Office 365 ProPlus, inkluż dejta djanjostika u esperjenzi konnessi.
 hideEdit: true
-ms.openlocfilehash: 329d3de3fd4ff20518a8a49f01d7c5bfcd75342b
-ms.sourcegitcommit: de39739d7ab82666ff1389be360d74c518ae97f6
+ms.openlocfilehash: 708c8b1dae02f54d4c6a6195cec9513c8639b62d
+ms.sourcegitcommit: aed9a0908021ffc80baa7159a66b63dd4f9f28e4
 ms.translationtype: HT
 ms.contentlocale: mt-MT
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36980348"
+ms.lasthandoff: 10/08/2019
+ms.locfileid: "37417421"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Ħarsa ġenerali lejn il-kontrolli tal-privatezza għal Office 365 ProPlus
 
@@ -38,8 +38,9 @@ Bħala parti minn dawn il-bidliet, hemm elementi tal-interface (UI) u settings t
 >   - Verżjoni 16.28 jew aktar riċenti tal-applikazzjonijiet li ġejjin ta’ Office for Mac: Excel, Outlook, OneNote, PowerPoint u Word.
 >   - Verżjoni 1904 jew aktar riċenti tal-verżjonijiet tad-desktop ta’ Project u Visio li jiġu b’xi pjanijiet ta’ abbonamenti, bħall-pjan ta’ Project Online Professional jew Visio Online Plan 2.
 > - Dawn il-kontrolli tal-privatezza huma inklużi fil-Verżjoni 1908 ta’ Semi-Annual Channel (Targeted), li nħareġ fl-10 ta’ Settembru 2019. Huma mistennija li jkunu disponibbli fis-Semi-Annual Channel f’Jannar 2020.
-> - Dawn il-kontrolli tal-privatezza huma skedati li jkunu disponibbli fit-tieni nofs ta’ Otubru 2019 għall-verżjonijiet iOS ta’ Excel, OneNote, PowerPoint, Visio, u Word. Nipprovdu aktar informazzjoni fil-bidu ta’ Ottubru.
-> - Se nestendu dawn il-kontrolli tal-privatezza ġodda u mtejba lil klijenti addizzjonali ta’ Office, inklużi Teams u l-apps mobbli tagħna. Se nipprovdu aktar informazzjoni dwar dawn il-bidliet fix-xhur li ġejjin. Se nkomplu nisimgħu l-feedback b’attenzjoni u nagħmlu titjib fil-klijenti u s-servizzi kollha ta’ Office 365.
+> - Dawn il-kontrolli tal-privatezza huma skedati li jkunu disponibbli fit-tieni nofs ta’ Otubru 2019 għall-verżjonijiet iOS ta’ Excel, OneNote, PowerPoint, Visio, u Word. Se ipprovdu aktar informazzjoni fil-bidu ta’ Ottubru.
+> - Ħafna mill-applikazzjonijiet tal-web ta’ Office huma skedati biex jibdew jużaw il-kontrolli tal-privatezza l-ġodda għall-[esperjenzi konnessi fakultattivi](optional-connected-experiences.md) f’nofs Ottubru 2019. Dawk l-applikazzjonijiet huma dawn li ġejjin: Excel għall-web, OneNote għall-web, PowerPoint għall-web, Visio għall-web u Word għall-web. Qabel jibda dan, tista’ tuża s-[servizz tal-politika tal-cloud ta’ Office](../overview-office-cloud-policy-service.md) biex tikkonfigura s-[setting tal-politika](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) x-xierqa.
+> - Se nestendu dawn il-kontrolli tal-privatezza ġodda u mtejba lil klijenti addizzjonali ta’ Office, inklużi Teams u l-applikazzjonijiet mobbli tagħna. Se nipprovdu aktar informazzjoni dwar dawn il-bidliet fix-xhur li ġejjin. Se nkomplu nisimgħu l-feedback b’attenzjoni u nagħmlu titjib fil-klijenti u s-servizzi kollha ta’ Office 365.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Dejta djanjostika mibgħuta minn Office 365 ProPlus lil Microsoft
 
