@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Jipprovdi lill-amministraturi ta’ Office b’ħarsa ġenerali lejn il-kontrolli tal-privatezza għal Office 365 ProPlus, inkluż dejta djanjostika u esperjenzi konnessi.
 hideEdit: true
-ms.openlocfilehash: 708c8b1dae02f54d4c6a6195cec9513c8639b62d
-ms.sourcegitcommit: aed9a0908021ffc80baa7159a66b63dd4f9f28e4
+ms.openlocfilehash: 24a3d30d05fb2a1456e10d8a8036f31c25c14db7
+ms.sourcegitcommit: 02c4120c0b10bfe378d21d60699ae49aaef97834
 ms.translationtype: HT
 ms.contentlocale: mt-MT
-ms.lasthandoff: 10/08/2019
-ms.locfileid: "37417421"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37510709"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Ħarsa ġenerali lejn il-kontrolli tal-privatezza għal Office 365 ProPlus
 
@@ -38,7 +38,7 @@ Bħala parti minn dawn il-bidliet, hemm elementi tal-interface (UI) u settings t
 >   - Verżjoni 16.28 jew aktar riċenti tal-applikazzjonijiet li ġejjin ta’ Office for Mac: Excel, Outlook, OneNote, PowerPoint u Word.
 >   - Verżjoni 1904 jew aktar riċenti tal-verżjonijiet tad-desktop ta’ Project u Visio li jiġu b’xi pjanijiet ta’ abbonamenti, bħall-pjan ta’ Project Online Professional jew Visio Online Plan 2.
 > - Dawn il-kontrolli tal-privatezza huma inklużi fil-Verżjoni 1908 ta’ Semi-Annual Channel (Targeted), li nħareġ fl-10 ta’ Settembru 2019. Huma mistennija li jkunu disponibbli fis-Semi-Annual Channel f’Jannar 2020.
-> - Dawn il-kontrolli tal-privatezza huma skedati li jkunu disponibbli fit-tieni nofs ta’ Otubru 2019 għall-verżjonijiet iOS ta’ Excel, OneNote, PowerPoint, Visio, u Word. Se ipprovdu aktar informazzjoni fil-bidu ta’ Ottubru.
+> - Dawn il-kontrolli tal-privatezza huma disponibbli għall-Verżjoni 2.30 u aktar reċenti tal-verżjonijiet ta’ iOS ta’ Excel, OneNote, PowerPoint u Word, kif ukoll tal-Verżjoni 1.17 u aktar reċenti ta’ Visio Viewer għal iOS.
 > - Ħafna mill-applikazzjonijiet tal-web ta’ Office huma skedati biex jibdew jużaw il-kontrolli tal-privatezza l-ġodda għall-[esperjenzi konnessi fakultattivi](optional-connected-experiences.md) f’nofs Ottubru 2019. Dawk l-applikazzjonijiet huma dawn li ġejjin: Excel għall-web, OneNote għall-web, PowerPoint għall-web, Visio għall-web u Word għall-web. Qabel jibda dan, tista’ tuża s-[servizz tal-politika tal-cloud ta’ Office](../overview-office-cloud-policy-service.md) biex tikkonfigura s-[setting tal-politika](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) x-xierqa.
 > - Se nestendu dawn il-kontrolli tal-privatezza ġodda u mtejba lil klijenti addizzjonali ta’ Office, inklużi Teams u l-applikazzjonijiet mobbli tagħna. Se nipprovdu aktar informazzjoni dwar dawn il-bidliet fix-xhur li ġejjin. Se nkomplu nisimgħu l-feedback b’attenzjoni u nagħmlu titjib fil-klijenti u s-servizzi kollha ta’ Office 365.
 
@@ -74,6 +74,7 @@ Għal aktar informazzjoni, ara dan li ġej:
 - [Dejta djanjostika fakultattiva għal Office](optional-diagnostic-data.md)
 - [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għal Office 365 ProPlus](manage-privacy-controls.md)
 - [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office for Mac](mac-privacy-preferences.md)
+- [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office fuq tagħmir iOS](ios-privacy-preferences.md)
 - [L-użu tal-Viżwalizzatur tad-Dejta Djanjostika ma’ Office](https://support.office.com/article/cf761ce9-d805-4c60-a339-4e07f3182855)
 
 ## <a name="connected-experiences-for-office-365-proplus"></a>Esperjenzi konnessi għal Office 365 ProPlus
@@ -99,6 +100,7 @@ Għal aktar informazzjoni, ara dan li ġej:
 - [Esperjenzi konnessi f’Office](connected-experiences.md)
 - [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għal Office 365 ProPlus](manage-privacy-controls.md)
 - [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office for Mac](mac-privacy-preferences.md)
+- [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office fuq tagħmir iOS](ios-privacy-preferences.md)
 
 ## <a name="optional-connected-experiences-for-office-365-proplus"></a>Esperjenzi konnessi fakultattivi għal Office 365 ProPlus
 
@@ -115,6 +117,7 @@ Għal aktar informazzjoni, ara dan li ġej:
 - [Ħarsa ġenerali lejn l-esperjenzi konnessi fakultattivi f’Office](optional-connected-experiences.md)
 - [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għal Office 365 ProPlus](manage-privacy-controls.md)
 - [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office for Mac](mac-privacy-preferences.md)
+- [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office fuq tagħmir iOS](ios-privacy-preferences.md)
 
 ## <a name="required-service-data-for-connected-experiences"></a>Dejta tas-servizz meħtieġa għal esperjenzi konnessi
 
