@@ -3,6 +3,7 @@
 ## [Immaniġġja l-kontrolli tal-privatezza b’settings tal-politika](manage-privacy-controls.md)
 ## [Immaniġġja l-kontrolli tal-privatezza bi preferenzi (Mac)](mac-privacy-preferences.md)
 ## [Immaniġġja l-kontrolli tal-privatezza bi preferenzi (iOS)](ios-privacy-preferences.md)
+## [Immaniġġja l-kontrolli tal-privatezza b’settings tal-politika (Android)](android-privacy-controls.md)
 
 ## Dejta djanjostika
 ### [Dejta djanjostika meħtieġa](required-diagnostic-data.md)
