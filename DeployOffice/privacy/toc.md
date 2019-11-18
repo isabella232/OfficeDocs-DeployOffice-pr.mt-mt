@@ -1,9 +1,12 @@
 # Privatezza għal Office 365 ProPlus
+
 ## [Ħarsa ġenerali lejn il-kontrolli tal-privatezza](overview-privacy-controls.md)
-## [Immaniġġja l-kontrolli tal-privatezza b’settings tal-politika](manage-privacy-controls.md)
-## [Immaniġġja l-kontrolli tal-privatezza bi preferenzi (Mac)](mac-privacy-preferences.md)
-## [Immaniġġja l-kontrolli tal-privatezza bi preferenzi (iOS)](ios-privacy-preferences.md)
-## [Immaniġġja l-kontrolli tal-privatezza b’settings tal-politika (Android)](android-privacy-controls.md)
+
+## Immaniġġja l-kontrolli tal-privatezza
+### [Settings tal-politika ta’ Windows](manage-privacy-controls.md)
+### [Preferenzi ta’ Mac](mac-privacy-preferences.md)
+### [Preferenzi ta’ iOS](ios-privacy-preferences.md)
+### [Settings tal-politika ta’ Android](android-privacy-controls.md)
 
 ## Dejta djanjostika
 ### [Dejta djanjostika meħtieġa](required-diagnostic-data.md)
