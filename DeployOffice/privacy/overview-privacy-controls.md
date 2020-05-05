@@ -1,5 +1,5 @@
 ---
-title: Ħarsa ġenerali lejn il-kontrolli tal-privatezza għal Office 365 ProPlus
+title: Ħarsa ġenerali lejn il-kontrolli tal-privatezza ta’ Microsoft 365 Apps for enterprise
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
@@ -13,20 +13,20 @@ ms.collection:
 ms.custom:
 - Ent_Office_ProPlus
 - Ent_Office_Privacy
-description: Jipprovdi lill-amministraturi ta’ Office b’ħarsa ġenerali lejn il-kontrolli tal-privatezza għal Office 365 ProPlus, inkluż dejta djanjostika u esperjenzi konnessi.
+description: Jipprovdi lill-amministraturi ta’ Office b’ħarsa ġenerali lejn il-kontrolli tal-privatezza għal Microsoft 365 Apps for enterprise (qabel imsejjaħ Office 365 ProPlus), inkluż dejta dijanjostika u esperjenzi konnessi.
 hideEdit: true
-ms.openlocfilehash: 784bbf08626e6dc8571c416a74511c9f5feeceec
-ms.sourcegitcommit: acb22296532bbfdfcad4dc1e7162f812997fbdd1
+ms.openlocfilehash: e22388cb73a539e13f67163bf0b0e949b10be349
+ms.sourcegitcommit: 3890a23390edd0b5fdb2cf33613ec0778566cf97
 ms.translationtype: HT
 ms.contentlocale: mt-MT
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38067363"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43993100"
 ---
-# <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Ħarsa ġenerali lejn il-kontrolli tal-privatezza għal Office 365 ProPlus
+# <a name="overview-of-privacy-controls-for-microsoft-365-apps-for-enterprise"></a>Ħarsa ġenerali lejn il-kontrolli tal-privatezza ta’ Microsoft 365 Apps for enterprise
 
-Microsoft hija kommessa li tipprovdik bl-informazzjoni u l-kontrolli li teħtieġ biex tagħmel l-għażliet dwar kif tinġabar u tintuża d-dejta tiegħek meta tkun qed tuża Office 365 ProPlus.
+Microsoft hija kommessa li tipprovdik bl-informazzjoni u l-kontrolli li teħtieġ biex tagħmel l-għażliet dwar kif tinġabar u tintuża d-dejta tiegħek meta tkun qed tuża Microsoft 365 Apps for enterprise (qabel imsejjaħ Office 365 ProPlus).
 
-Mill-Version 1904 ta’ Office 365 ProPlus (li ħarġet f’Monthly Channel fid-29 ta’ April 2019), qed nipprovduk b’kontrolli ta’ privatezza ġodda, aġġornati u mtejba għall-oqsma li ġejjin:
+Mill-Version 1904 ta’ Microsoft 365 Apps for enterprise, qed nipprovduk b’kontrolli ta’ privatezza ġodda, aġġornati u mtejba għall-oqsma li ġejjin:
 - ***Dejta djanjostika*** li qed tinġabar u tintbagħat lil Microsoft dwar is-softwer tal-klijent ta’ Office li qed jintuża fuq kompjuters li jħaddmu Windows fl-organizzazzjoni tiegħek.
 - ***Esperjenzi konnessi*** li jużaw funzjonalità bbażata fil-cloud biex tipprovdi karatteristiki mtejba ta’ Office għalik u l-utenti tiegħek.
 
@@ -36,20 +36,20 @@ Bħala parti minn dawn il-bidliet, hemm elementi tal-interface (UI) u settings t
 > - Dawn il-bidliet japplikaw għal Access, Excel, OneNote, Outlook, PowerPoint, Publisher u Word.
 > - Dawn il-bidliet japplikaw ukoll għal dan li ġej:
 >   - Verżjoni 16.28 jew aktar riċenti tal-applikazzjonijiet li ġejjin ta’ Office for Mac: Excel, Outlook, OneNote, PowerPoint u Word.
->   - Verżjoni 1904 jew aktar riċenti tal-verżjonijiet tad-desktop ta’ Project u Visio li jiġu b’xi pjanijiet ta’ abbonamenti, bħall-pjan ta’ Project Online Professional jew Visio Online Plan 2.
-> - Dawn il-kontrolli tal-privatezza huma inklużi fil-Verżjoni 1908 ta’ Semi-Annual Channel (Targeted), li nħareġ fl-10 ta’ Settembru 2019. Huma mistennija li jkunu disponibbli fis-Semi-Annual Channel f’Jannar 2020.
+>   - Verżjoni 1904 jew aktar riċenti tal-verżjonijiet tad-desktop ta’ Project u Visio li jiġu b’xi pjanijiet ta’ abbonamenti, bħal pjan Project Plan 5 jew Visio Plan 2.
+> - Dawn il-kontrolli tal-privatezza huma inklużi fil-Verżjoni 1908 u l-verżjonijiet ta’ wara ta’ Semi-Annual Channel (Targeted), u Semi-Annual Channel.
 > - Dawn il-kontrolli tal-privatezza huma disponibbli għall-Verżjoni 2.30 u aktar reċenti tal-verżjonijiet ta’ iOS ta’ Excel, OneNote, PowerPoint u Word, kif ukoll tal-Verżjoni 1.17 u aktar reċenti ta’ Visio Viewer għal iOS.
 > - Dawn il-kontrolli tal-privatezza huma disponibbli għall-Verżjoni 16.0.12226.10000 u aktar reċenti tal-verżjonijiet Android ta’ Excel, PowerPoint u Word, kif ukoll Verżjoni 16.0.12228.20004 u aktar reċenti ta’ OneNote għall-Android.
 > - Ħafna mill-applikazzjonijiet ta’ Office għall-web jużaw il-kontroll tal-privatezza l-ġdid għall-[esperjenzi konnessi fakultattivi](optional-connected-experiences.md). Dawk l-applikazzjonijiet huma dawn li ġejjin: Excel għall-web, OneNote għall-web, PowerPoint għall-web, Visio għall-web u Word għall-web. Tista’ tuża s-[servizz tal-politika tal-cloud](../overview-office-cloud-policy-service.md) biex tikkonfigura s-[setting tal-politika](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) adattata.
-> - Se nestendu dawn il-kontrolli tal-privatezza ġodda u mtejba lil klijenti addizzjonali ta’ Office, inklużi Teams u l-applikazzjonijiet mobbli tagħna. Se nipprovdu aktar informazzjoni dwar dawn il-bidliet fix-xhur li ġejjin. Se nkomplu nisimgħu l-feedback b’attenzjoni u nagħmlu titjib fil-klijenti u s-servizzi kollha ta’ Office 365.
+> - Se nestendu dawn il-kontrolli tal-privatezza ġodda u mtejba lil klijenti addizzjonali ta’ Office, inklużi Teams u l-applikazzjonijiet mobbli tagħna. Se nipprovdu aktar informazzjoni dwar dawn il-bidliet fix-xhur li ġejjin. Se nkomplu nisimgħu l-feedback b’attenzjoni u nagħmlu titjib fil-klijenti u s-servizzi kollha ta’ Office 365 (u Microsoft 365).
 
-## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Dejta djanjostika mibgħuta minn Office 365 ProPlus lil Microsoft
+## <a name="diagnostic-data-sent-from-microsoft-365-apps-for-enterprise-to-microsoft"></a>Dejta dijanjostika mibgħuta minn Microsoft 365 Apps for enterprise lil Microsoft
 
-Dejta djanjostika tintuża biex iżżomm lil Office sigur u aġġornat, issib, tagħmel dijanjożi u tirranġa problemi kif ukoll ittejjeb il-prodotti. Din id-dejta ma tinkludix isem l-utent jew indirizz elettroniku, il-kontenut tal-fajls tal-utent, jew informazzjoni dwar applikazzjonijiet mhux relatati ma’ Office.
+Dejta djanjostika tintuża biex iżżomm lil Office sigur u aġġornat, issib, tagħmel dijanjosi u tirranġa problemi kif ukoll ittejjeb il-prodotti. Din id-dejta ma tinkludix isem l-utent jew indirizz elettroniku, il-kontenut tal-fajls tal-utent, jew informazzjoni dwar applikazzjonijiet mhux relatati ma’ Office.
 
 Din id-dejta djanjostika tinġabar u tintbagħat lil Microsoft dwar softwer tal-klijent ta’ Office li qed tintuża fuq kompjuters li jħaddmu Windows fl-organizzazzjoni tiegħek.
 
-Hemm tliet livelli ta’ dejta djanjostika għas-softwer tal-klijent ta’ Office 365 ProPlus minn fejn tista’ tagħżel:
+Hemm tliet livelli ta’ dejta dijanjostika għas-software tal-klijent ta’ Microsoft 365 Apps for enterprise minn fejn tista’ tagħżel:
 
 - **Meħtieġ** Id-dejta minima meħtieġa biex tgħin iżżomm lil Office sigur, aġġornat u jaħdem kif mistenni fuq it-tagħmir li huwa installat fuqu.
 
@@ -73,15 +73,15 @@ Għal aktar informazzjoni, ara dan li ġej:
 
 - [Dejta djanjostika meħtieġa għal Office](required-diagnostic-data.md)
 - [Dejta djanjostika fakultattiva għal Office](optional-diagnostic-data.md)
-- [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għal Office 365 ProPlus](manage-privacy-controls.md)
+- [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għat-tagħmir ta’ Microsoft 365 Apps for enterprise](manage-privacy-controls.md)
 - [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office for Mac](mac-privacy-preferences.md)
 - [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office fuq tagħmir iOS](ios-privacy-preferences.md)
 - [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għat-tagħmir ta’ Office fuq Android](android-privacy-controls.md)
 - [L-użu tal-Viżwalizzatur tad-Dejta Djanjostika ma’ Office](https://support.office.com/article/cf761ce9-d805-4c60-a339-4e07f3182855)
 
-## <a name="connected-experiences-for-office-365-proplus"></a>Esperjenzi konnessi għal Office 365 ProPlus
+## <a name="connected-experiences-for-microsoft-365-apps-for-enterprise"></a>Esperjenzi konnessi ma’ Microsoft 365 Apps for enterprise
 
-Office 365 ProPlus jikkonsisti minn applikazzjonijiet tas-softwer tal-klijenti u esperjenzi konnessi maħsuba biex jippermettulek toħloq, tikkomunika u tikkollabora b’mod aktar effettiv. Il-ħidma mal-oħrajn fuq dokumenti maħżuna fuq OneDrive for Business jew it-traduzzjoni tal-kontenut ta’ dokument Word f’lingwa differenti huma eżempji ta’ esperjenzi konnessi.
+Microsoft 365 Apps for enterprise jikkonsisti f’applikazzjonijiet tas-softwer tal-klijent u esperjenzi konnessi maħsuba biex jgħinuk toħloq, tikkomunika u tikkollabora b’mod aktar effiċjenti. Il-ħidma mal-oħrajn fuq dokumenti maħżuna fuq OneDrive for Business jew it-traduzzjoni tal-kontenut ta’ dokument Word f’lingwa differenti huma eżempji ta’ esperjenzi konnessi.
 
 Aħna nifhmu li tista’ tagħżel liema tipi ta’ esperjenzi konnessi jkunu disponibbli għall-utenti tiegħek meta jkunu qed jaħdmu f’applikazzjonijiet ta’ Office. Bħala amministratur għall-organizzazzjoni tiegħek, inti jkollok settings tal-politika li jippermettulek tagħżel jekk tipprovdix it-tipi li ġejjin ta’ esperjenzi konnessa lill-utenti tiegħek:
 
@@ -100,14 +100,14 @@ L-utenti tiegħek ma jkunux jistgħu jagħżlu jekk jixegħlux jew jitfux dawn l
 Għal aktar informazzjoni, ara dan li ġej:
 
 - [Esperjenzi konnessi f’Office](connected-experiences.md)
-- [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għal Office 365 ProPlus](manage-privacy-controls.md)
+- [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għat-tagħmir ta’ Microsoft 365 Apps for enterprise](manage-privacy-controls.md)
 - [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office for Mac](mac-privacy-preferences.md)
 - [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office fuq tagħmir iOS](ios-privacy-preferences.md)
 - [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għat-tagħmir ta’ Office fuq Android](android-privacy-controls.md)
 
-## <a name="optional-connected-experiences-for-office-365-proplus"></a>Esperjenzi konnessi fakultattivi għal Office 365 ProPlus
+## <a name="optional-connected-experiences-for-microsoft-365-apps-for-enterprise"></a>Esperjenzi konnessi fakultattivi ma’ Microsoft 365 Apps for enterprise
 
-Minbarra l-esperjenzi konnessi msemmija hawn fuq li huma inklużi ma’ Office 365 ProPlus, hemm esperjenzi konnessi fakultattivi li tista’ tagħżel li tippermetti lill-utenti tiegħek jaċċessaw bil-kont tal-organizzazzjoni tagħhom. Pereżempju, il-karatteristiki ta’ LinkedIn tal-Assistent għas-CV f’Word jew il-karatteristika tal-Mapep 3D f’Excel, li tuża Bing.
+Minbarra l-esperjenzi konnessi msemmija hawn fuq li huma inklużi ma’ Microsoft 365 Apps for enterprise, hemm esperjenzi konnessi fakultattivi li tista’ tagħżel li tippermetti lill-utenti tiegħek jaċċessaw bil-kont tal-organizzazzjoni tagħhom. Pereżempju, il-karatteristiki ta’ LinkedIn tal-Assistent għas-CV f’Word jew il-karatteristika tal-Mapep 3D f’Excel, li tuża Bing.
 
 Dawn huma esperjenzi konnessi fakultattivi li mhumiex koperti mill-ftehim kummerċjali tal-organizzazzjoni tiegħek ma’ Microsoft iżda huma regolati minn termini u kundizzjonijiet separati. Esperjenzi konnessi fakultattivi offruti minn Microsoft direttament lill-utenti tiegħek huma regolati mill-[Ftehim tas-Servizzi ta’ Microsoft](https://www.microsoft.com/servicesagreement) minflok it-[Termini tas-Servizzi Online](https://www.microsoft.com/licensing/product-licensing/products).
 
@@ -118,7 +118,7 @@ Anke jekk tagħżel li tagħmel dawn l-esperjenzi konnessi fakultattivi disponib
 Għal aktar informazzjoni, ara dan li ġej:
 
 - [Ħarsa ġenerali lejn l-esperjenzi konnessi fakultattivi f’Office](optional-connected-experiences.md)
-- [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għal Office 365 ProPlus](manage-privacy-controls.md)
+- [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għat-tagħmir ta’ Microsoft 365 Apps for enterprise](manage-privacy-controls.md)
 - [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office for Mac](mac-privacy-preferences.md)
 - [Uża l-preferenzi biex timmaniġġja l-kontrolli tal-privatezza għal Office fuq tagħmir iOS](ios-privacy-preferences.md)
 - [Uża s-settings tal-politika biex timmaniġġja l-kontrolli tal-privatezza għat-tagħmir ta’ Office fuq Android](android-privacy-controls.md)
@@ -143,9 +143,9 @@ Jekk tagħżel li ma tipprovdix lill-utenti tiegħek bil-kategorija ta’ esperj
 
 Għal aktar informazzjoni, ara[Dejta tas-servizz meħtieġa għal Office](required-service-data.md).
 
-## <a name="essential-services-for-office-365-proplus"></a>Servizzi essenzjali għal Office 365 ProPlus
+## <a name="essential-services-for-microsoft-365-apps-for-enterprise"></a>Servizzi essenzjali għal Microsoft 365 Apps for enterprise
 
-Hemm ukoll sett ta’ servizzi li huma essenzjali għall-iffunzjonar ta’ Office 365 ProPlus u ma jistgħux jiġu diżattivati. Pereżempju, is-servizz ta’ liċenzjar li jikkonferma li inti lliċenzjat kif xieraq biex tuża Office 365 ProPlus. Id-dejta tas-servizz meħtieġa dwar dawn is-servizzi hija miġbura u mibgħuta lil Microsoft, irrispettivament minn kull setting tal-politika ieħor li għandek ikkonfigurat.
+Hemm ukoll sett ta’ servizzi li huma essenzjali għall-iffunzjonar ta’ Microsoft 365 Apps for enterprise u ma jistgħux jiġu diżattivati. Pereżempju, is-servizz ta’ liċenzjar li jikkonferma li inti lliċenzjat kif xieraq biex tuża Microsoft 365 Apps for enterprise. Id-dejta tas-servizz meħtieġa dwar dawn is-servizzi hija miġbura u mibgħuta lil Microsoft, irrispettivament minn kull setting tal-politika ieħor li għandek ikkonfigurat.
 
 Għal aktar informazzjoni, ara[Servizzi essenzjali għal Office](essential-services.md).
 
