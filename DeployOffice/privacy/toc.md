@@ -1,4 +1,4 @@
-# Privatezza għal Office 365 ProPlus
+# Privatezza ta’ Microsoft 365 Apps for enterprise
 
 ## [Ħarsa ġenerali lejn il-kontrolli tal-privatezza](overview-privacy-controls.md)
 
