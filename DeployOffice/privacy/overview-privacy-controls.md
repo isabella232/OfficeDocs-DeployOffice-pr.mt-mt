@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Jipprovdi lill-amministraturi ta’ Office b’ħarsa ġenerali lejn il-kontrolli tal-privatezza għal Microsoft 365 Apps for enterprise (qabel imsejjaħ Office 365 ProPlus), inkluż dejta dijanjostika u esperjenzi konnessi.
 hideEdit: true
-ms.openlocfilehash: e22388cb73a539e13f67163bf0b0e949b10be349
-ms.sourcegitcommit: 3890a23390edd0b5fdb2cf33613ec0778566cf97
+ms.openlocfilehash: 134f7470354796679c9a8c69fac8dd2559302b72
+ms.sourcegitcommit: f8201a088d2b160b6fcec2342e11be0e9ba3d189
 ms.translationtype: HT
 ms.contentlocale: mt-MT
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43993100"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44663547"
 ---
 # <a name="overview-of-privacy-controls-for-microsoft-365-apps-for-enterprise"></a>Ħarsa ġenerali lejn il-kontrolli tal-privatezza ta’ Microsoft 365 Apps for enterprise
 
@@ -37,7 +37,7 @@ Bħala parti minn dawn il-bidliet, hemm elementi tal-interface (UI) u settings t
 > - Dawn il-bidliet japplikaw ukoll għal dan li ġej:
 >   - Verżjoni 16.28 jew aktar riċenti tal-applikazzjonijiet li ġejjin ta’ Office for Mac: Excel, Outlook, OneNote, PowerPoint u Word.
 >   - Verżjoni 1904 jew aktar riċenti tal-verżjonijiet tad-desktop ta’ Project u Visio li jiġu b’xi pjanijiet ta’ abbonamenti, bħal pjan Project Plan 5 jew Visio Plan 2.
-> - Dawn il-kontrolli tal-privatezza huma inklużi fil-Verżjoni 1908 u l-verżjonijiet ta’ wara ta’ Semi-Annual Channel (Targeted), u Semi-Annual Channel.
+> - Dawn il-kontrolli tal-privatezza huma inklużi fil-Verżjoni 1908 u l-verżjonijiet ta’ wara ta’ Semi-Annual Enterprise Channel (Preview), u Semi-Annual Enterprise Channel.
 > - Dawn il-kontrolli tal-privatezza huma disponibbli għall-Verżjoni 2.30 u aktar reċenti tal-verżjonijiet ta’ iOS ta’ Excel, OneNote, PowerPoint u Word, kif ukoll tal-Verżjoni 1.17 u aktar reċenti ta’ Visio Viewer għal iOS.
 > - Dawn il-kontrolli tal-privatezza huma disponibbli għall-Verżjoni 16.0.12226.10000 u aktar reċenti tal-verżjonijiet Android ta’ Excel, PowerPoint u Word, kif ukoll Verżjoni 16.0.12228.20004 u aktar reċenti ta’ OneNote għall-Android.
 > - Ħafna mill-applikazzjonijiet ta’ Office għall-web jużaw il-kontroll tal-privatezza l-ġdid għall-[esperjenzi konnessi fakultattivi](optional-connected-experiences.md). Dawk l-applikazzjonijiet huma dawn li ġejjin: Excel għall-web, OneNote għall-web, PowerPoint għall-web, Visio għall-web u Word għall-web. Tista’ tuża s-[servizz tal-politika tal-cloud](../overview-office-cloud-policy-service.md) biex tikkonfigura s-[setting tal-politika](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) adattata.
