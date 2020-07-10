@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Jipprovdi lill-amministraturi ta’ Office b’ħarsa ġenerali lejn il-kontrolli tal-privatezza għal Microsoft 365 Apps for enterprise (qabel imsejjaħ Office 365 ProPlus), inkluż dejta dijanjostika u esperjenzi konnessi.
 hideEdit: true
-ms.openlocfilehash: 134f7470354796679c9a8c69fac8dd2559302b72
-ms.sourcegitcommit: f8201a088d2b160b6fcec2342e11be0e9ba3d189
+ms.openlocfilehash: f5a957d57a7c8f95503091f456aef5a9c1e0fca7
+ms.sourcegitcommit: f441b1a5f8853c0941b3e23c7781c89abf0be641
 ms.translationtype: HT
 ms.contentlocale: mt-MT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44663547"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45087695"
 ---
 # <a name="overview-of-privacy-controls-for-microsoft-365-apps-for-enterprise"></a>Ħarsa ġenerali lejn il-kontrolli tal-privatezza ta’ Microsoft 365 Apps for enterprise
 
@@ -85,7 +85,7 @@ Microsoft 365 Apps for enterprise jikkonsisti f’applikazzjonijiet tas-softwer 
 
 Aħna nifhmu li tista’ tagħżel liema tipi ta’ esperjenzi konnessi jkunu disponibbli għall-utenti tiegħek meta jkunu qed jaħdmu f’applikazzjonijiet ta’ Office. Bħala amministratur għall-organizzazzjoni tiegħek, inti jkollok settings tal-politika li jippermettulek tagħżel jekk tipprovdix it-tipi li ġejjin ta’ esperjenzi konnessa lill-utenti tiegħek:
 
-- **Esperjenzi li janalizzaw il-kontenut tiegħek** Esperjenzi li jużaw il-kontenut tiegħek ta’ Office biex jipprovdulek rakkomandazzjonijiet ta’ disinn, suġġerimenti tal-editjar, insights tad-dejta u karatteristiċi simili. Pereżempju, PowerPoint Designer jew Editor f’Word.
+- **Esperjenzi li janalizzaw il-kontenut tiegħek** Esperjenzi li jużaw il-kontenut tiegħek ta’ Office biex jipprovdulek rakkomandazzjonijiet ta’ disinn, suġġerimenti tal-editjar, insights tad-dejta u karatteristiċi simili. Pereżempju, PowerPoint Designer jew Translator.
 
 - **Esperjenzi li jniżżlu kontenut online** Esperjenzi li jippermettulek tfittex u tniżżel kontenut online inkluż mudelli, stampi, mudelli 3D, vidjos u materjali ta’ referenza biex itejbu d-dokumenti tiegħek. Pereżempju, mudelli ta’ Office jew PowerPoint QuickStarter.
 
