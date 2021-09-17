@@ -41,24 +41,35 @@
       "extendBreadcrumb": "true",
       "uhfHeaderId": "MSDocsHeader-M365-IT",
       "searchScope": [
-	  "Deploy Office"
-	  ],
+        "Deploy Office"
+      ],
       "feedback_system": "None",
       "hide_comments": true,
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-DeployOffice",
       "feedback_product_url": "https://ODInsiders.uservoice.com",
       "titleSuffix": "Deploy Office",
-      "contributors_to_exclude": [ 
-        "rjagiewich", 
-        "traya1", 
-        "rmca14", 
-        "claydetels19", 
+      "contributors_to_exclude": [
+        "rjagiewich",
+        "traya1",
+        "rmca14",
+        "claydetels19",
         "jborsecnik",
         "tiburd",
         "garycentric"
       ]
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "recommendations": {
+        "compat/**/*.md": false,
+        "fieldnotes/**/*.md": false,
+        "oct/**/*.md": false,
+        "office2016/**/*.md": false,
+        "other/**/*.md": false,
+        "privacy/**/*.md": false,
+        "security/**/*.md": false,
+        "vlactivation/**/*.md": false
+      }
+    },
     "template": [],
     "dest": "OfficeDocs-OfficeProPlus",
     "markdownEngineName": "markdig"
