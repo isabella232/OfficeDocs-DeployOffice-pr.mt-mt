@@ -19,6 +19,7 @@
     }
   ],
   "notification_subscribers": [],
+  "sync_notification_subscribers": null,
   "branches_to_filter": [
     "live-sxs",
     "master-sxs"
@@ -33,7 +34,7 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft.mt-mt",
-      "branch": "master",
+      "branch": "main",
       "branch_mapping": {}
     },
     {
@@ -45,7 +46,7 @@
     {
       "path_to_root": "_themes.pdf",
       "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
-      "branch": "master",
+      "branch": "main",
       "branch_mapping": {}
     },
     {
@@ -54,12 +55,12 @@
       "branch": "live",
       "branch_mapping": {
         "live": "live",
-        "master": "master"
+        "main": "main"
       }
     }
   ],
   "branch_target_mapping": {
-    "master": [
+    "main": [
       "Publish",
       "Pdf"
     ],
